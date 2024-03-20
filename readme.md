@@ -68,4 +68,20 @@ CREATE TABLE `clientes` (
 ## OPTIONS
 ![image](https://github.com/juliosn/CRUD-Postman_PHP/assets/99426563/89c2a4c9-548e-49a5-ba13-91f18eb5ff10)
 
+## ☕ Instalando o Crud-Postman_PHP
+
+Para utilizar o Crud-Postman_PHP, siga as seguintes etapas:
+
+- Baixe o projeto - https://github.com/juliosn/CRUD-Postman_PHP/
+- Acesse o diretório do projeto através do prompt de comando (CMD)
+- No Xampp, crie um banco de dados com o nome de sua preferência. Caso queira alterar o nome do banco do arquivo, vá em 'App/Database/config' e altere o valor do campo 'db_name':
+
+  ![image](https://github.com/juliosn/CRUD-Postman_PHP/assets/99426563/feca2c10-9539-407f-bccf-293e6b072fc6)
+  >Obs.: Caso você tenha alterado as configurações do ambiente seu XAMPP, altere os valores necessários neste arquivo.
+
+- Caso você utilize o VsCode como sua IDE, utilize o comando: 'code .' para abrir o projeto dentro da IDE
+- Vá no prompt de comando, utilize o comando: 'php -S localhost:8083'
+- Abra o navegador e insira a seguinte URL: 'http://localhost:8083/'. Agora, você terá acesso aos testes do projeto!
+
+- No Postman: Criar coleção e adicionar os requisitos que deseja, sua estrutura e conteúdo foram apresentados previamente no arquivo.
 
