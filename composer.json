@@ -1,0 +1,20 @@
+{
+    "name": "flash/perfomphp",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "faustinopsy",
+            "email": "rodrigohipnose@gmail.com"
+        },
+        {
+            "name": "Júlio da Silva Neves",
+            "email": "julio.neves01@fatec.sp.gov.br"
+        }
+    ],
+    "require": {
+    }
+}
