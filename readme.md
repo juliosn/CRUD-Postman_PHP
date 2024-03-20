@@ -35,6 +35,9 @@ CREATE TABLE `clientes` (
   
 # POSTMAN
 
+## Estrutura da coleção
+![image](https://github.com/juliosn/CRUD-Postman_PHP/assets/99426563/a433ea1d-9866-4dca-9672-b23f8371008d)
+
 ## GET com erro 404
 ![image](https://github.com/juliosn/CRUD-Postman_PHP/assets/99426563/72c73976-e088-4945-b532-1e18338b65be)
 
